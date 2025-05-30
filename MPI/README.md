@@ -26,9 +26,9 @@
 ├── MPI.pdf # 实验报告（PDF 格式）  
 └── code
     ├── 实验代码
-        ├── p1.cpp # 串行高斯消去实现  
-        ├── p2.cpp # MPI+OpenMP+SIMD 并行版本  
-        └── p3.cpp # MPI 非阻塞通信版本  
+    |   ├── p1.cpp # 串行高斯消去实现  
+    |   ├── p2.cpp # MPI+OpenMP+SIMD 并行版本  
+    |   └── p3.cpp # MPI 非阻塞通信版本  
     └── 绘图代码
         ├── draw1.m # 运行时间对比图脚本  
         ├── draw2.m # 加速比对比图脚本  
